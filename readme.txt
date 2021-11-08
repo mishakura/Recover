@@ -1,3 +1,4 @@
+
 Implement a program called recover that recovers JPEGs from a forensic image.
 
 Implement your program in a file called recover.c in a directory called recover.
